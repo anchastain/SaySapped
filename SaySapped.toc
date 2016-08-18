@@ -6,5 +6,6 @@
 ## Maintainer: Aurae @ Ravencrest (US)
 ## X-eMail: saysapped at orgplay dot com
 ## X-Category: Battlegrounds/PvP, Chat/Communication
+## Original download: http://www.wowinterface.com/downloads/info9631-160815.html
 
 SaySapped.lua
