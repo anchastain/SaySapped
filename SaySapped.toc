@@ -1,4 +1,4 @@
-## Interface: 70000
+## Interface: 70100
 ## Title: SaySapped
 ## Version: 2014-07-23
 ## Notes: Says "Sapped" to alert those around you whenever a rogue saps you. Great for Arenas, Battlegrounds and World PvP!
